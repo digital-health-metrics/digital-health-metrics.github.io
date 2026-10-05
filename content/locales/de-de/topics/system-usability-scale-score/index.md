@@ -43,4 +43,4 @@ SUS-Daten stammen direkt von Patienten oder Klinikern, die den standardisierten 
 - Bangor, Kortum und Miller, veröffentlichte SUS-Benchmarking-Forschung, die die weithin zitierten Score-Interpretationsbänder etabliert
 - Peer-begutachtete Literatur zur Nutzung von SUS in der Usability-Bewertung digitaler Gesundheit und Telemedizin, beispielsweise Studien veröffentlicht in JMIR Human Factors
 
-Siehe auch: [Patienten-Net-Promoter-Score](../patient-net-promoter-score/), eine verwandte, aber unterschiedliche patientenberichtete Kennzahl, die Zufriedenheit und Loyalität statt spezifisch die Software-Usability misst.
+Siehe auch: [Patienten-Net-Promoter-Score](../patienten-net-promoter-score/), eine verwandte, aber unterschiedliche patientenberichtete Kennzahl, die Zufriedenheit und Loyalität statt spezifisch die Software-Usability misst.

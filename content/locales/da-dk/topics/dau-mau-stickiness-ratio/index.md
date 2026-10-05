@@ -39,4 +39,4 @@ DAU/MAU-ratioen er let at beregne fra standard produktanalysedata, men dens pass
 - Mobile app- og produktanalyseindustristandarder for engagementsmålinger
 - Collegialt bedømt og industrilitteratur om digital sundhedsengagement, f.eks. analyser offentliggjort af Rock Health og lignende digitale sundhedsforskningsorganisationer
 
-Se også: [brugerfastholdelsesrate](../user-retention-rate/), den nært beslægtede metrik for, om en patient overhovedet forbliver tilmeldt, til forskel fra hvor konsekvent de er engagerede, mens de er tilmeldt.
+Se også: [brugerfastholdelsesrate](../brugerfastholdelsesrate/), den nært beslægtede metrik for, om en patient overhovedet forbliver tilmeldt, til forskel fra hvor konsekvent de er engagerede, mens de er tilmeldt.

@@ -58,4 +58,4 @@ La valutazione rispetto a ISO/TS 82304-2 viene tipicamente condotta da un valuta
 - Comitato Tecnico ISO 215 (Informatica Sanitaria), informazioni di pubblicazione e gruppo di lavoro
 - Organizzazioni nazionali e commerciali di etichettatura della qualità e cura delle app sanitarie che pubblicano la propria metodologia di valutazione basata su questo standard
 
-Vedi anche: [punteggio System Usability Scale](../system-usability-scale-score/), uno strumento complementare e più ristretto specifico per l'usabilità spesso usato insieme a una più ampia valutazione della qualità ISO/TS 82304-2.
+Vedi anche: [punteggio System Usability Scale](../punteggio-system-usability-scale/), uno strumento complementare e più ristretto specifico per l'usabilità spesso usato insieme a una più ampia valutazione della qualità ISO/TS 82304-2.

@@ -56,4 +56,4 @@ Penilaian terhadap ISO/TS 82304-2 biasanya dilakukan oleh peninjau terlatih atau
 - ISO Technical Committee 215 (Health Informatics), informasi publikasi dan kelompok kerja
 - Organisasi pelabelan dan kurasi kualitas aplikasi kesehatan nasional dan komersial yang menerbitkan metodologi penilaian mereka berdasarkan standar ini
 
-Lihat juga: [skor System Usability Scale](../system-usability-scale-score/), instrumen khusus kegunaan yang lebih sempit dan saling melengkapi yang sering digunakan bersama penilaian kualitas ISO/TS 82304-2 yang lebih luas.
+Lihat juga: [skor System Usability Scale](../skor-system-usability-scale/), instrumen khusus kegunaan yang lebih sempit dan saling melengkapi yang sering digunakan bersama penilaian kualitas ISO/TS 82304-2 yang lebih luas.

@@ -55,4 +55,4 @@ Bedömning mot ISO/TS 82304-2 genomförs vanligtvis av en utbildad granskare ell
 - ISO:s tekniska kommitté 215 (Health Informatics), publiceringsinformation och information om arbetsgrupper
 - Nationella och kommersiella organisationer för kvalitetsmärkning och kuratering av hälsoappar som publicerar sin bedömningsmetodik baserad på denna standard
 
-Se även: [System Usability Scale-poäng](../system-usability-scale-score/), ett kompletterande, snävare instrument specifikt för användbarhet som ofta används tillsammans med en bredare ISO/TS 82304-2-kvalitetsbedömning.
+Se även: [System Usability Scale-poäng](../system-usability-scale-poäng/), ett kompletterande, snävare instrument specifikt för användbarhet som ofta används tillsammans med en bredare ISO/TS 82304-2-kvalitetsbedömning.

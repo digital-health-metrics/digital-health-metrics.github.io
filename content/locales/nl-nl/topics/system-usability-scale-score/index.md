@@ -43,4 +43,4 @@ SUS-gegevens komen direct van patiënten of clinici die de gestandaardiseerde vr
 - Bangor, Kortum, en Miller, gepubliceerd SUS-benchmarkingonderzoek dat de algemeen aangehaalde scoreinterpretatiebanden vaststelt
 - Collegiaal getoetste literatuur over het gebruik van SUS in bruikbaarheidsevaluatie van digitale gezondheid en telezorg, bijvoorbeeld studies gepubliceerd in JMIR Human Factors
 
-Zie ook: [patiënt Net Promoter Score](../patient-net-promoter-score/), een verwante maar afzonderlijke patiëntgerapporteerde maatstaf die tevredenheid en loyaliteit meet in plaats van specifiek softwarebruikbaarheid.
+Zie ook: [patiënt Net Promoter Score](../patiënt-net-promoter-score/), een verwante maar afzonderlijke patiëntgerapporteerde maatstaf die tevredenheid en loyaliteit meet in plaats van specifiek softwarebruikbaarheid.

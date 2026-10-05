@@ -57,4 +57,4 @@ Việc đánh giá theo ISO/TS 82304-2 thường được thực hiện bởi m�
 - Ủy ban Kỹ thuật ISO 215 (Tin học Y tế), thông tin xuất bản và nhóm làm việc
 - Các tổ chức dán nhãn chất lượng và tuyển chọn ứng dụng sức khỏe quốc gia và thương mại công bố phương pháp luận đánh giá của họ dựa trên tiêu chuẩn này
 
-Xem thêm: [điểm System Usability Scale](../system-usability-scale-score/), một công cụ bổ sung, hẹp hơn, chuyên về tính dễ sử dụng thường được sử dụng cùng với một đánh giá chất lượng ISO/TS 82304-2 rộng hơn.
+Xem thêm: [điểm System Usability Scale](../điểm-system-usability-scale/), một công cụ bổ sung, hẹp hơn, chuyên về tính dễ sử dụng thường được sử dụng cùng với một đánh giá chất lượng ISO/TS 82304-2 rộng hơn.

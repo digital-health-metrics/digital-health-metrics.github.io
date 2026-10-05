@@ -56,4 +56,4 @@ Hindamist ISO/TS 82304-2 suhtes viib tavaliselt läbi koolitatud hindaja või ak
 - ISO tehniline komitee 215 (Terviseinformaatika), avaldamis- ja töörühma teave
 - Riiklikud ja kommertslikud terviserakenduste kvaliteedimärgistamise ja kureerimise organisatsioonid, mis avaldavad oma hindamismetoodikat selle standardi alusel
 
-Vaata ka: [System Usability Scale-skoor](../system-usability-scale-score/), täiendav, kitsam vahend spetsiaalselt kasutatavuse jaoks, mida sageli kasutatakse koos laiema ISO/TS 82304-2 kvaliteedihindamisega.
+Vaata ka: [System Usability Scale-skoor](../system-usability-scale-skoor/), täiendav, kitsam vahend spetsiaalselt kasutatavuse jaoks, mida sageli kasutatakse koos laiema ISO/TS 82304-2 kvaliteedihindamisega.
